@@ -4,4 +4,6 @@
 
 # 0.5: Single page app
 
+[Link](https://www.websequencediagrams.com/cgi-bin/cdraw?lz=YnJvd3Nlci0-c2VydmVyOiBIVFRQIEdFVCBodHRwczovL2Z1bGxzdGFjay1leGFtcGxlYXBwLmhlcm9rdWFwcC5jb20vc3BhCgoAOwYtLT4ATAc6IEhUTUwgQ29kZQoAIUVtYWluLmNzcwBXEwASCQAfSmoATxlqcwoKbm90ZSBvdmVyIACBZggAgVwIIHN0YXJ0cyBleGVjdXRpbmcganMtY29kZQp0aGF0IHJlcXVlc3RzIEpTT04gZGF0YSBmcm9tIACCeQYgCmVuZCBub3RlCgCBbkZkYXRhLmpzb24AgwwTAH0FRklMRQoAgTMddXBkYXRlcyB3aXRoAIEsBSwgdGhlcmUgaXMgbm8gbmVlZCB0byByZWZyZXNoAIE2Cwo&s=patent)
+
 # 0.6: New note
